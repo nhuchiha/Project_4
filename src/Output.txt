@@ -1,0 +1,25 @@
+Programming Fundamentals
+Name: Nhu-Chi Ha
+PROGRAMMING ASSIGNMENT 4
+
+Enter command: add 5
+5
+Enter command: add 8
+8 5
+Enter command: add 6
+6 8 5
+Enter command: add 24
+24 6 8 5
+Enter command: add 6
+24 6 8 5
+Enter command: exists 6
+true
+Enter command: exists 13
+false
+Enter command: exists 24
+true
+Enter command: del 6
+24 8 5
+Enter command: del 8
+24 5
+Enter command: 
